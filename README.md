@@ -15,7 +15,7 @@ A brief description of your project.
 
 ## Installation
 first run to install the requirement : 
-pip install  -r requirement 
+```pip install  -r requirement```
 
 ## Usage
 
